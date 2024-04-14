@@ -11,6 +11,33 @@
     },
     "items": [
         {
+            "id": "https://host-lescano.github.io/mamadelola/productor.html",
+            "url": "https://host-lescano.github.io/mamadelola/productor.html",
+            "title": "Productor",
+            "author": {
+                "name": "Claudia"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-14T17:59:48-05:00",
+            "date_modified": "2024-04-14T17:59:48-05:00"
+        },
+        {
+            "id": "https://host-lescano.github.io/mamadelola/ropa-en-invierno.html",
+            "url": "https://host-lescano.github.io/mamadelola/ropa-en-invierno.html",
+            "title": "Ropa en invierno",
+            "summary": "gxjsajahxkxlkaxlkasn",
+            "content_html": "<p>gxjsajahxkxlkaxlkasn</p>",
+            "image": "https://host-lescano.github.io/mamadelola/media/posts/5/71uk-Oe9gaL._AC_UL960_QL65_.jpg",
+            "author": {
+                "name": "Claudia"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-14T17:53:40-05:00",
+            "date_modified": "2024-04-14T17:55:11-05:00"
+        },
+        {
             "id": "https://host-lescano.github.io/mamadelola/consulta-por-tu-perrito.html",
             "url": "https://host-lescano.github.io/mamadelola/consulta-por-tu-perrito.html",
             "title": "Consulta por tu Perrito",

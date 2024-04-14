@@ -3,12 +3,47 @@
     <title>La Mama de Lola</title>
     <link href="https://host-lescano.github.io/mamadelola/feed.xml" rel="self" />
     <link href="https://host-lescano.github.io/mamadelola" />
-    <updated>2024-04-14T09:13:30-05:00</updated>
+    <updated>2024-04-14T17:59:48-05:00</updated>
     <author>
         <name>Claudia</name>
     </author>
     <id>https://host-lescano.github.io/mamadelola</id>
 
+    <entry>
+        <title>Productor</title>
+        <author>
+            <name>Claudia</name>
+        </author>
+        <link href="https://host-lescano.github.io/mamadelola/productor.html"/>
+        <id>https://host-lescano.github.io/mamadelola/productor.html</id>
+
+        <updated>2024-04-14T17:59:48-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ropa en invierno</title>
+        <author>
+            <name>Claudia</name>
+        </author>
+        <link href="https://host-lescano.github.io/mamadelola/ropa-en-invierno.html"/>
+        <id>https://host-lescano.github.io/mamadelola/ropa-en-invierno.html</id>
+        <media:content url="https://host-lescano.github.io/mamadelola/media/posts/5/71uk-Oe9gaL._AC_UL960_QL65_.jpg" medium="image" />
+
+        <updated>2024-04-14T17:53:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://host-lescano.github.io/mamadelola/media/posts/5/71uk-Oe9gaL._AC_UL960_QL65_.jpg" alt="" />
+                    gxjsajahxkxlkaxlkasn
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://host-lescano.github.io/mamadelola/media/posts/5/71uk-Oe9gaL._AC_UL960_QL65_.jpg" class="type:primaryImage" alt="" /></p>
+                <p>gxjsajahxkxlkaxlkasn</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Consulta por tu Perrito</title>
         <author>
