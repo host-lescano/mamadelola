@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>La Mama de Lola</title>
+    <link href="https://host-lescano.github.io/mamadelola/feed.xml" rel="self" />
+    <link href="https://host-lescano.github.io/mamadelola" />
+    <updated>2024-04-14T09:13:30-05:00</updated>
+    <author>
+        <name>Claudia</name>
+    </author>
+    <id>https://host-lescano.github.io/mamadelola</id>
+
+    <entry>
+        <title>Consulta por tu Perrito</title>
+        <author>
+            <name>Claudia</name>
+        </author>
+        <link href="https://host-lescano.github.io/mamadelola/consulta-por-tu-perrito.html"/>
+        <id>https://host-lescano.github.io/mamadelola/consulta-por-tu-perrito.html</id>
+        <media:content url="https://host-lescano.github.io/mamadelola/media/posts/4/test.jpg" medium="image" />
+
+        <updated>2024-04-11T16:38:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://host-lescano.github.io/mamadelola/media/posts/4/test.jpg" alt="" />
+                    Me puedes contactar por ...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://host-lescano.github.io/mamadelola/media/posts/4/test.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Me puedes contactar por ...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Parques Favoritos de Lola</title>
+        <author>
+            <name>Claudia</name>
+        </author>
+        <link href="https://host-lescano.github.io/mamadelola/los-parques-favoritos-de-lola.html"/>
+        <id>https://host-lescano.github.io/mamadelola/los-parques-favoritos-de-lola.html</id>
+        <media:content url="https://host-lescano.github.io/mamadelola/media/posts/3/cropped-lima-el-olivar-parque-flickr.jpg" medium="image" />
+
+        <updated>2024-04-11T16:23:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://host-lescano.github.io/mamadelola/media/posts/3/cropped-lima-el-olivar-parque-flickr.jpg" alt="" />
+                    texto
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://host-lescano.github.io/mamadelola/media/posts/3/cropped-lima-el-olivar-parque-flickr.jpg" class="type:primaryImage" alt="" /></p>
+                <p>texto</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Guía de Veterinaria</title>
+        <author>
+            <name>Claudia</name>
+        </author>
+        <link href="https://host-lescano.github.io/mamadelola/test-2.html"/>
+        <id>https://host-lescano.github.io/mamadelola/test-2.html</id>
+        <media:content url="https://host-lescano.github.io/mamadelola/media/posts/2/clinica-veterinaria-2.jpg" medium="image" />
+
+        <updated>2024-04-11T16:14:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://host-lescano.github.io/mamadelola/media/posts/2/clinica-veterinaria-2.jpg" alt="" />
+                    lnnp
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://host-lescano.github.io/mamadelola/media/posts/2/clinica-veterinaria-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>lnnp</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Guía de Comida</title>
+        <author>
+            <name>Claudia</name>
+        </author>
+        <link href="https://host-lescano.github.io/mamadelola/test-1.html"/>
+        <id>https://host-lescano.github.io/mamadelola/test-1.html</id>
+        <media:content url="https://host-lescano.github.io/mamadelola/media/posts/1/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-3.jpg" medium="image" />
+
+        <updated>2024-04-11T16:14:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://host-lescano.github.io/mamadelola/media/posts/1/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-3.jpg" alt="" />
+                    jkkk
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://host-lescano.github.io/mamadelola/media/posts/1/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-3.jpg" class="type:primaryImage" alt="" /></p>
+                <p>jkkk<figure class="post__image"><img loading="lazy"  src="https://host-lescano.github.io/mamadelola/media/posts/1/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0.jpg" alt="" width="1200" height="675" sizes="(max-width: 48em) 100vw, 768px" srcset="https://host-lescano.github.io/mamadelola/media/posts/1/responsive/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-xs.jpg 300w ,https://host-lescano.github.io/mamadelola/media/posts/1/responsive/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-sm.jpg 480w ,https://host-lescano.github.io/mamadelola/media/posts/1/responsive/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-md.jpg 768w ,https://host-lescano.github.io/mamadelola/media/posts/1/responsive/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-lg.jpg 1024w ,https://host-lescano.github.io/mamadelola/media/posts/1/responsive/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-xl.jpg 1360w ,https://host-lescano.github.io/mamadelola/media/posts/1/responsive/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

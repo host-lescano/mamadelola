@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://host-lescano.github.io/mamadelola/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://host-lescano.github.io/mamadelola/</loc>
+</url>
+<url>
+<loc>https://host-lescano.github.io/mamadelola/consulta-por-tu-perrito.html</loc>
+<lastmod>2024-04-11T17:08:59-05:00</lastmod>
+<image:image>
+<image:loc>https://host-lescano.github.io/mamadelola/media/posts/4/test.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://host-lescano.github.io/mamadelola/los-parques-favoritos-de-lola.html</loc>
+<lastmod>2024-04-14T09:13:30-05:00</lastmod>
+<image:image>
+<image:loc>https://host-lescano.github.io/mamadelola/media/posts/3/cropped-lima-el-olivar-parque-flickr.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://host-lescano.github.io/mamadelola/test-1.html</loc>
+<lastmod>2024-04-11T16:22:14-05:00</lastmod>
+<image:image>
+<image:loc>https://host-lescano.github.io/mamadelola/media/posts/1/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://host-lescano.github.io/mamadelola/media/posts/1/a1fee1be-1ab2-4846-8b5a-4ec30d46b043_alta-libre-aspect-ratio_default_0.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://host-lescano.github.io/mamadelola/test-2.html</loc>
+<lastmod>2024-04-11T16:21:57-05:00</lastmod>
+<image:image>
+<image:loc>https://host-lescano.github.io/mamadelola/media/posts/2/clinica-veterinaria-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
